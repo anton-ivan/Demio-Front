@@ -1,4 +1,4 @@
-# Demio-Front
+# Rails App Front End
 <h1>Used Following</h1>
 <ul>
 <li>HTML5</li>
